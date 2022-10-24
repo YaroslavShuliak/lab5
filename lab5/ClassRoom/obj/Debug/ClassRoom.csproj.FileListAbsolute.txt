@@ -1,0 +1,7 @@
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\obj\Debug\ClassRoom.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\ZAKHAR\GIT5\lab5\ClassRoom\obj\Debug\ClassRoom.pdb

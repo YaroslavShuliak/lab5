@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,15 @@ namespace DocumentWorker
     {
         public override void EditDocument()
         {
-            Console.WriteLine("Документ вiдредаговано");
+           
+            Console.WriteLine("Внесiть змiни в документ:");
+            string editText = Console.ReadLine();
+            using (FileStream edit = new FileStream("D:\\myfile.txt", FileMode.Open))
+            {
+                byte[] array = System.Text.Encoding.Default.GetBytes(editText);
+                edit.Write(array, 0, array.Length);
+                Console.WriteLine("Документ вiдредаговано");
+            }
         }
         public override void SaveDocument()
         {

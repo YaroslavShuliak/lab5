@@ -9,15 +9,15 @@ namespace DocumentWorker
 {
     class DocumentWorker
     {
-        public virtual void OpenDocument()
+        public void OpenDocument()
         {
             using (FileStream s = File.OpenRead("D:\\myfile.txt"))
-            {
-                Console.WriteLine("Документ вiдкритий");
+            {               
                 byte[] array = new byte[s.Length];
                 s.Read(array, 0, array.Length);
                 string a = System.Text.Encoding.Default.GetString(array);
                 Console.WriteLine(a);
+                Console.WriteLine("Документ вiдкритий");
             }
         }
         public virtual void EditDocument()

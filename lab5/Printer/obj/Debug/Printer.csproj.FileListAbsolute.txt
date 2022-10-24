@@ -1,0 +1,6 @@
+C:\Users\ZAKHAR\GIT5\lab5\Printer\bin\Debug\Printer.exe.config
+C:\Users\ZAKHAR\GIT5\lab5\Printer\bin\Debug\Printer.exe
+C:\Users\ZAKHAR\GIT5\lab5\Printer\bin\Debug\Printer.pdb
+C:\Users\ZAKHAR\GIT5\lab5\Printer\obj\Debug\Printer.csproj.CoreCompileInputs.cache
+C:\Users\ZAKHAR\GIT5\lab5\Printer\obj\Debug\Printer.exe
+C:\Users\ZAKHAR\GIT5\lab5\Printer\obj\Debug\Printer.pdb
